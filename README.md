@@ -9,3 +9,8 @@ AutoConf and makefile support may be added in the future
 # Currently Accomplished
 - Only Windows currently
 - Only Defaults work (theoretically). Custom options are around 50% done
+
+# To be added
+- Linux Support
+- Custom Options support
+- AutoConf and makefile build system
