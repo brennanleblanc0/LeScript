@@ -1,5 +1,5 @@
 /*
-    libLeScriptWin.hpp - Generic, easy to use, and time saving Cyber Security script for Cyber Security Competitions (Library)
+    libLeScriptWin.hpp - Generic, easy to use, and time saving Cyber Security script for Cyber Security Competitions (Header)
     Copyright (C) 2020  Brennan LeBlanc
 
     This program is free software: you can redistribute it and/or modify
