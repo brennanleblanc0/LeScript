@@ -1,5 +1,5 @@
 /*  
-    LeScript - Generic, easy to use, and time saving Cyber Security script for Cyber Security Competitions
+    LeScript - Generic, easy to use, and time saving Cyber Security script for Cyber Security Competitions (Windows)
     Copyright (C) 2020  Brennan LeBlanc
 
     This program is free software: you can redistribute it and/or modify
