@@ -11,6 +11,6 @@ AutoConf and makefile support may be added in the future
 - Only Defaults work (theoretically). Custom options are around 50% done
 
 # To be added
-- Linux Support
+- Linux Support (Will be heavily Ubuntu focused)
 - Custom Options support
 - AutoConf and makefile build system
