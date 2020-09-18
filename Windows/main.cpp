@@ -55,7 +55,8 @@ int main() {
         if (Win_Firewall == 'Y' || Win_Firewall == 'y') {
             WinFirewall();
         }
-        
+
+        return 0;
     } else {
         std::cout << "Invalid Character, aborting.\n";
         return 1;
