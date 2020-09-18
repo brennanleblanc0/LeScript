@@ -1,6 +1,8 @@
 # LeScript
 Generic, easy to use, and time saving Cyber Security script for Cyber Security Competitions
 
+Written in pure C++
+
 # Build Instructions
 GCC or MinGW (for Windows) is recommened
 
