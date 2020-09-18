@@ -43,6 +43,19 @@ int main() {
         std::cin >> Win_Defend;
         std::cout << "Would you like to enable Windows Firewall (Y/N): ";
         std::cin >> Win_Firewall;
+
+        if (Win_Update == 'Y' || Win_Update == 'y') {
+            WinUpdate();
+        }
+
+        if (Win_Defend == 'Y' || Win_Defend == 'y') {
+            WinDefend();
+        }
+
+        if (Win_Firewall == 'Y' || Win_Firewall == 'y') {
+            WinFirewall();
+        }
+        
     } else {
         std::cout << "Invalid Character, aborting.\n";
         return 1;
